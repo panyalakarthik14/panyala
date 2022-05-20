@@ -1,2 +1,2 @@
 # panyala
-Hi I' Karthik Panyala working with Cognizant.
+Hi I'm Karthik Panyala working with Cognizant.
